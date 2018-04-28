@@ -1,4 +1,4 @@
-package fileex;
+package Ngocquy; 
 
 import java.awt.BorderLayout;
 import java.awt.GridLayout;
