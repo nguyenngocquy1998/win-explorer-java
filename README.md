@@ -8,7 +8,7 @@ Câu 1 :Giao diện FileExplore ;
 
 Câu 2 : Chức năng Paste tập tin;
 
-•	Video hướng dẫn: https://www.youtube.com/watch?v=EDLiIoGqMHs
+•	Video hướng dẫn: https://www.youtube.com/watch?v=EDLiIoGqMHs ( COPY FILE PROFILE.INFO từ mục win10 đến thư mục ECLIPSE WORD SPACE)
 
 *Chức năng paste File :
 
@@ -26,6 +26,7 @@ Chọn File cần mở trên table .
 
 
 Click vào ô Open .
+
 
 
 
